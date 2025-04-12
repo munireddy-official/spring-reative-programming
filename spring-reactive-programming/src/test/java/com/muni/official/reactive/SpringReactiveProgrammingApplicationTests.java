@@ -1,4 +1,4 @@
-package com.muni.official.spring_reactive_programming;
+package com.muni.official.reactive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
